@@ -1,2 +1,2 @@
 # Breast-Cancer
-Using Machine Learning to predict Breast Cancer
+Analysing Breast Cancer data set using ML algorithms (KNN and logistic regression)
